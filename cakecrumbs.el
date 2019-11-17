@@ -42,7 +42,7 @@
 (defvar-local cakecrumbs--idle-timer nil
   "Buffer-local timer.")
 (defvar-local cakecrumbs--original-head-line-format nil
-  "Sotre the value of `header-line-format' before calling `cakecrumbs-install-header'")
+  "Store the value of `header-line-format' before calling `cakecrumbs-install-header'")
 (defvar-local cakecrumbs--header-installed nil
   "Internal use.")
 
